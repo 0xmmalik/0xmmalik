@@ -1,4 +1,6 @@
-### Hi there! 👋 I'm Manav!
+### Hi there! 👋  I'm Manav!
+
+Welcome to my GitHub page!
 
 <!--
 **0xmmalik/0xmmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
