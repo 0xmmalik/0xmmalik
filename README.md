@@ -1,6 +1,6 @@
-### Hi there! 👋  I'm Manav!
+### Hi there! I'm Manav! 👋
 
-Welcome to my GitHub page!
+Welcome to my GitHub page! You can also see my website [here](0xmmalik.github.io)!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xmmalik&show_icons=true&count_private=true)
 
