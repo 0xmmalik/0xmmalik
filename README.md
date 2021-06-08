@@ -3,7 +3,7 @@
 Welcome to my GitHub page!
 
 Find me:
-- [Website](0xmmalik.github.io)
+- [Website](https://0xmmalik.github.io)
 
 <!--
 **0xmmalik/0xmmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
