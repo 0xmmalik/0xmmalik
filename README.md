@@ -1,14 +1,20 @@
 ### Hi there! I'm Manav! <img src="https://media4.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e47kq9f5wfv2mt4lh563vgtseh8k71i7lu1conixrsy&rid=giphy.gif&ct=g" width="180px" />
 
-Welcome to my GitHub page!
+#### Welcome to my GitHub page!
 
 Find me:
 
 <a href="https://www.youtube.com/channel/UCmCiv_Yr_XY8nUlNjktjigQ">
-  <img alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img alt="YouTube" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <a href="https://www.linkedin.com/in/manav-malik-60242b1b4/">
-  <img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="LinkedIn" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/1m51d2x950l4d077rjceevhg2">
+  <img alt="Spotify" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://www.discord.com/users/717024346706673704">
+  <img alt="Discord" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 [Website](https://0xmmalik.github.io)
