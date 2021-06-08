@@ -5,10 +5,10 @@ Welcome to my GitHub page!
 Find me:
 
 <a href="https://www.youtube.com/channel/UCmCiv_Yr_XY8nUlNjktjigQ">
-  <img alt="YouTube" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <a href="https://www.linkedin.com/in/manav-malik-60242b1b4/">
-  <img alt="LinkedIn" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 [Website](https://0xmmalik.github.io)
