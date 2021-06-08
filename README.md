@@ -1,8 +1,9 @@
-### Hi there! I'm Manav! 👋
+### Hi there! I'm Manav! <img src="https://media4.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e47kq9f5wfv2mt4lh563vgtseh8k71i7lu1conixrsy&rid=giphy.gif&ct=g" width="90px">
 
-Welcome to my GitHub page! You can also see my website [here](https://0xmmalik.github.io)!
+Welcome to my GitHub page!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xmmalik&show_icons=true&count_private=true)
+Find me:
+- [Website](0xmmalik.github.io)
 
 <!--
 **0xmmalik/0xmmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+
+<!--
+  
 -->
