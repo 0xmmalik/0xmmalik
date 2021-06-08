@@ -1,4 +1,4 @@
-<div><h3>Hi there! I'm Manav! <img style="vertical-align:middle" src="https://media4.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e47kq9f5wfv2mt4lh563vgtseh8k71i7lu1conixrsy&rid=giphy.gif&ct=g" width="180px"></h3></div>
+<div><h3>Hi there! I'm Manav!</h3><img style="vertical-align:middle" src="https://media4.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e47kq9f5wfv2mt4lh563vgtseh8k71i7lu1conixrsy&rid=giphy.gif&ct=g" width="180px"></div>
 
 Welcome to my GitHub page!
 
