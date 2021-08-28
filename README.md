@@ -4,7 +4,9 @@
   </a>
 </h1>
 
+<div align="center">
 <img src="https://media4.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e47kq9f5wfv2mt4lh563vgtseh8k71i7lu1conixrsy&rid=giphy.gif&ct=g" width="180px" />
+  
 
 Find me:
 
@@ -25,6 +27,7 @@ Find me:
 </a>
 
 [Website](https://0xmmalik.github.io)
+</div>
 
 <!--
 **0xmmalik/0xmmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
