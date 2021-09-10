@@ -27,6 +27,7 @@ Find me:
 </a>
 
 [Website](https://0xmmalik.github.io)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xmmalik&)">
 </div>
 
 <!--
