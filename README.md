@@ -10,23 +10,23 @@
 
 Find me:
 
-<a href="https://www.youtube.com/channel/UCmCiv_Yr_XY8nUlNjktjigQ">
+<a href="https://www.youtube.com/channel/UCmCiv_Yr_XY8nUlNjktjigQ" target="_blank">
   <img alt="YouTube" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-<a href="https://www.twitter.com/0xmmalik">
+<a href="https://www.twitter.com/0xmmalik" target="_blank">
   <img alt="Twitter" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/manav-malik-60242b1b4">
+<a href="https://www.linkedin.com/in/manav-malik-60242b1b4" target="_blank">
   <img alt="LinkedIn" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/1m51d2x950l4d077rjceevhg2">
+<a href="https://open.spotify.com/user/1m51d2x950l4d077rjceevhg2" target="_blank">
   <img alt="Spotify" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.discord.com/users/717024346706673704">
+<a href="https://www.discord.com/users/717024346706673704" target="_blank">
   <img alt="Discord" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-[Website](https://0xmmalik.github.io)
+  <a href="https://0xmmalik.repl.co" target="_blank">Website</a>
   <br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xmmalik&)">
 </div>
