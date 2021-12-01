@@ -26,7 +26,7 @@ Find me:
   <img alt="Discord" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-  <a href="https://0xmmalik.repl.co" target="_blank">Website</a>
+  <a href="https://0xmmalik.github.io" target="_blank">Website</a>
   <br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xmmalik&)">
 </div>
