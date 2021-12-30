@@ -28,7 +28,7 @@ Find me:
 
   <a href="https://0xmmalik.github.io" target="_blank">Website</a>
   <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xmmalik&)">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xmmalik&)"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmmalik&langs_count=3">
 </div>
 
 <!--
